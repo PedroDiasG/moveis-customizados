@@ -21,5 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Projeto do curso Explorer da Rocketseat para ser desenvolvido.
+Projeto do curso Explorer da Rocketseat desenvolvido por mim.
+
 
