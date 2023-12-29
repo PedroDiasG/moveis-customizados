@@ -1,4 +1,4 @@
-<h1 align="center"> Links do Pedro </h1>
+<h1 align="center"> Móveis customizados </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,5 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-é uma página que contem o link do portfólio, Github, Instagram e Linkedin.
+Projeto do curso Explorer da Rocketseat para ser desenvolvido.
 
